@@ -2,3 +2,6 @@
 - git status 
 - git add .
 - git commit -m "commit msg"
+- git remote add origin git@github.com:mingzhit/learn-python.git
+- git remote -v
+- git diff
