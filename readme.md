@@ -1,3 +1,4 @@
 - git init  创建 git 项目
 - git status 
 - git add .
+- git commit -m "commit msg"
