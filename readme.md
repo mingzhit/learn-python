@@ -1,7 +1,7 @@
 - git init  创建 git 项目
-- git status 
-- git add .
-- git commit -m "commit msg"
-- git remote add origin git@github.com:mingzhit/learn-python.git
-- git remote -v
-- git diff
+- git status  查看状态
+- git add .   track修改内容
+- git commit -m "commit msg"    提交修改
+- git remote add origin git@github.com:mingzhit/learn-python.git    关联远程仓库
+- git remote -v     查看远程仓库关联
+- git diff      查看修改内容
