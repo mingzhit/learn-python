@@ -5,3 +5,15 @@
 - git remote add origin git@github.com:mingzhit/learn-python.git    关联远程仓库
 - git remote -v     查看远程仓库关联
 - git diff      查看修改内容
+- git push  推代码到GitHub
+
+- git log   查看记录
+- git reset     回退版本
+- git reset --hard HEAD^     回退到上一个版本（ HEAD^^回退到上上个版本）
+- git reflog     回退记录
+- git branch <name>    创建分支
+- git branch    查看分支
+- git checkout <name>   切换分支
+- git checkout -b <name>    创建的同时，切换分支
+- git merge <name>  把分支合并到当前目录
+- git branch -d <name>  删除分支
